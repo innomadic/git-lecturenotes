@@ -1,0 +1,1 @@
+This repository illustrates how to use Git.
